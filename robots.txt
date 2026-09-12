@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xavx07517-dev.github.io/echecs/sitemap.xml

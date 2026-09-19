@@ -10,5 +10,19 @@
         "name": "Xaxa"
     },
     "items": [
+        {
+            "id": "https://xavx07517-dev.github.io/echecs/mmmm.html",
+            "url": "https://xavx07517-dev.github.io/echecs/mmmm.html",
+            "title": "mmmm",
+            "summary": "llll",
+            "content_html": "<p>llll</p>\n<p> </p>",
+            "author": {
+                "name": "Xaxa"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-19T15:25:53+02:00",
+            "date_modified": "2026-09-19T15:25:53+02:00"
+        }
     ]
 }

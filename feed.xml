@@ -3,10 +3,31 @@
     <title>Apprendre les echecs </title>
     <link href="https://xavx07517-dev.github.io/echecs/feed.xml" rel="self" />
     <link href="https://xavx07517-dev.github.io/echecs" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-09-19T15:25:53+02:00</updated>
     <author>
         <name>Xaxa</name>
     </author>
     <id>https://xavx07517-dev.github.io/echecs</id>
 
+    <entry>
+        <title>mmmm</title>
+        <author>
+            <name>Xaxa</name>
+        </author>
+        <link href="https://xavx07517-dev.github.io/echecs/mmmm.html"/>
+        <id>https://xavx07517-dev.github.io/echecs/mmmm.html</id>
+
+        <updated>2026-09-19T15:25:53+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    llll
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>llll</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

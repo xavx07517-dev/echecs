@@ -7,8 +7,20 @@
     "user_comment": "",
     "icon": "https://xavx07517-dev.github.io/echecs/media/website/logollll.jpg",
     "author": {
-        "name": "WEBER Xavier"
+        "name": "WEBER  Xavier"
     },
     "items": [
+        {
+            "id": "https://xavx07517-dev.github.io/echecs/formation-arbitre.html",
+            "url": "https://xavx07517-dev.github.io/echecs/formation-arbitre.html",
+            "title": "Formation Arbitre 😝",
+            "author": {
+                "name": "WEBER  Xavier"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-04T16:41:09+02:00",
+            "date_modified": "2026-10-04T16:41:09+02:00"
+        }
     ]
 }
